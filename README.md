@@ -1,3 +1,2 @@
 # Timetable
-This is the time table created in html
-The display of time table link: https://pallavireddytummala.github.io/Timetable/
+This the html and css file of the time table of 3rd CSE 1st semester 2021-2025 Batch
